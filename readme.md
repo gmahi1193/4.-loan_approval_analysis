@@ -1,0 +1,1 @@
+This project is for understanding basics of pandas library and its use.
